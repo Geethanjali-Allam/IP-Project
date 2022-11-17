@@ -29,7 +29,7 @@ When use this dataset, Data only contains dogs that were available for adoption 
 
 
 ## New Python Packages or Modules 
-* I plan on using Warnings package to Warn the users if the value is not present in data set or if the file is not available.
+* I plan on using Warnings package to Warn the users if the value is not present in data set or if the file is.
 
 
 ## Dataset Documentation
